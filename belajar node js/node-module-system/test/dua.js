@@ -1,0 +1,1 @@
+console.log(cetakNama('Teratai Salju'));
